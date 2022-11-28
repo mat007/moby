@@ -25,6 +25,7 @@ env:
   TEST_CTN_NAME: moby
   DOCKER_BUILDKIT: 0
   ITG_CLI_MATRIX_SIZE: 6
+  PACKAGER_NAME: Moby Project
 
 jobs:
   build:
